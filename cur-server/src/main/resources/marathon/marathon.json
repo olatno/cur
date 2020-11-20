@@ -1,0 +1,9 @@
+{
+  "labels": {
+    "tags": "swagger",
+    "version": "${project.version}",
+    "portals:external:api_expose": "yes",
+    "portals:external:api_methods": "PUT|POST|GET|DELETE|OPTIONS",
+    "portals:external:kong_enabled": "false"
+  }
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "id" : 1234,
+    "title": "Lords of the rings",
+    "year": "2017",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "ratings": [
+      6, 6, 7, 6, 7, 9
+    ],
+    "poster": "MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg",
+    "contentRating": "R",
+    "duration": "PT103M",
+    "releaseDate": "2017-02-24",
+    "averageRating": 0,
+    "originalTitle": "",
+    "storyline": "A young African American man visits his European American girlfriend's family estate where he learns that many of its residents, who are black, have gone missing, and he soon learns the horrible truth when another frantic African-American warns him to \"get out\". He soon learns this is easier said than done.",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "imdbRating": 8.0,
+    "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg"
+  },
+
+  {
+    "id" : 4657,
+    "title": "Back to the future",
+    "year": "2017",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "ratings": [
+      6, 6, 7, 6, 7, 9
+    ],
+    "poster": "MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg",
+    "contentRating": "R",
+    "duration": "PT103M",
+    "releaseDate": "2017-02-24",
+    "averageRating": 0,
+    "originalTitle": "",
+    "storyline": "A young African American man visits his European American girlfriend's family estate where he learns that many of its residents, who are black, have gone missing, and he soon learns the horrible truth when another frantic African-American warns him to \"get out\". He soon learns this is easier said than done.",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "imdbRating": 8.0,
+    "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg"
+  },
+
+  {
+    "id" : 2345,
+    "title": "Carlito's way",
+    "year": "2017",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "ratings": [
+      6, 6, 7, 6, 7, 9
+    ],
+    "poster": "MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg",
+    "contentRating": "R",
+    "duration": "PT103M",
+    "releaseDate": "2017-02-24",
+    "averageRating": 0,
+    "originalTitle": "",
+    "storyline": "A young African American man visits his European American girlfriend's family estate where he learns that many of its residents, who are black, have gone missing, and he soon learns the horrible truth when another frantic African-American warns him to \"get out\". He soon learns this is easier said than done.",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "imdbRating": 8.0,
+    "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg"
+  },
+
+  {
+    "id" : 7685,
+    "title": "Pulp fiction",
+    "year": "2017",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "ratings": [
+      6, 6, 7, 6, 7, 9
+    ],
+    "poster": "MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg",
+    "contentRating": "R",
+    "duration": "PT103M",
+    "releaseDate": "2017-02-24",
+    "averageRating": 0,
+    "originalTitle": "",
+    "storyline": "A young African American man visits his European American girlfriend's family estate where he learns that many of its residents, who are black, have gone missing, and he soon learns the horrible truth when another frantic African-American warns him to \"get out\". He soon learns this is easier said than done.",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "imdbRating": 8.0,
+    "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY500_CR0,0,315,500_AL_.jpg"
+  }
+]

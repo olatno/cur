@@ -1,0 +1,5 @@
+com/currency/server/CURServerApplication.class
+com/currency/server/client/RestCurrencyClient.class
+com/currency/server/service/impl/CurrencyServiceImpl.class
+com/currency/server/controller/CurrencyController.class
+com/currency/server/service/CurrencyService.class

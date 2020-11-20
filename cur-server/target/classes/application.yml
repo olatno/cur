@@ -1,0 +1,16 @@
+config:
+  rest:
+    country:
+      currency:
+        url: 'https://restcountries.eu/rest/v2/currency/'
+      country:
+        url: 'https://restcountries.eu/rest/v2/alpha/'
+---
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
