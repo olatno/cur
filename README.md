@@ -12,7 +12,7 @@ The task completed using microservices with Spring Boot. The IDE used for the ta
  
  3. Select the maven task in the right hand side of the project.
  
- 4. Expand the CUR maven module, the is parent module of the project.
+ 4. Expand the CUR maven module, this is parent module of the project.
  
  5. Click on clean and thereafter click on compile.
  
