@@ -1,6 +1,6 @@
 # CURRENCY
 
-We are using REST COUNTRIES Api to get information about countries via a RESTful API. We only interested in the country ISO 3166-1 3-letter codes and the list of the bordering countries. The list of bordering countries is then use as a filter to get list of countries using different currency. 
+We are using REST COUNTRIES Api to get information about countries via a RESTful API. We only interested in the country ISO 3166-1 3-letter codes and the list of the bordering countries. The list of bordering countries is then used as a filter to get list of countries using different currency. 
 
 # Building and Running local environment
 
